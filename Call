@@ -1,0 +1,3 @@
+CALL atracciones_checkGanancias();
+CALL animales_addAforoPorTipo('León', 2);
+CALL artistas_addSuplementoPorCuidados(2);
